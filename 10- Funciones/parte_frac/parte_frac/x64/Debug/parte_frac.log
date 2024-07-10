@@ -1,0 +1,16 @@
+﻿  parte_frac.cpp
+C:\Users\Jose_Enrique\source\repos\parte_frac\parte_frac\parte_frac.cpp(16,13): warning C4244: 'return': conversion from 'TIPO' to 'float', possible loss of data
+C:\Users\Jose_Enrique\source\repos\parte_frac\parte_frac\parte_frac.cpp(16,13): warning C4244:         with
+C:\Users\Jose_Enrique\source\repos\parte_frac\parte_frac\parte_frac.cpp(16,13): warning C4244:         [
+C:\Users\Jose_Enrique\source\repos\parte_frac\parte_frac\parte_frac.cpp(16,13): warning C4244:             TIPO=double
+C:\Users\Jose_Enrique\source\repos\parte_frac\parte_frac\parte_frac.cpp(16,13): warning C4244:         ]
+  C:\Users\Jose_Enrique\source\repos\parte_frac\parte_frac\parte_frac.cpp(16,13):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Jose_Enrique\source\repos\parte_frac\parte_frac\parte_frac.cpp(11,10):
+  	see reference to function template instantiation 'float frax<double>(TIPO)' being compiled
+          with
+          [
+              TIPO=double
+          ]
+  
+  parte_frac.vcxproj -> C:\Users\Jose_Enrique\source\repos\parte_frac\x64\Debug\parte_frac.exe

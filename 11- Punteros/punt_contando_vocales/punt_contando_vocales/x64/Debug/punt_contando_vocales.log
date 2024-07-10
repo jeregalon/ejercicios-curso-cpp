@@ -1,0 +1,2 @@
+﻿  punt_contando_vocales.cpp
+C:\Users\Jose_Enrique\source\repos\punt_contando_vocales\punt_contando_vocales\punt_contando_vocales.cpp(33): error C4700: uninitialized local variable 'cont' used

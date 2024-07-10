@@ -1,0 +1,13 @@
+﻿  circuitos.cpp
+C:\Users\Jose_Enrique\source\repos\circuitos\circuitos\circuitos.cpp(7,19): warning C4101: 'R3': unreferenced local variable
+C:\Users\Jose_Enrique\source\repos\circuitos\circuitos\circuitos.cpp(9,19): warning C4101: 'I2': unreferenced local variable
+C:\Users\Jose_Enrique\source\repos\circuitos\circuitos\circuitos.cpp(9,15): warning C4101: 'I1': unreferenced local variable
+C:\Users\Jose_Enrique\source\repos\circuitos\circuitos\circuitos.cpp(9,31): warning C4101: 'I5': unreferenced local variable
+C:\Users\Jose_Enrique\source\repos\circuitos\circuitos\circuitos.cpp(9,27): warning C4101: 'I4': unreferenced local variable
+C:\Users\Jose_Enrique\source\repos\circuitos\circuitos\circuitos.cpp(8,27): warning C4101: 'V4': unreferenced local variable
+C:\Users\Jose_Enrique\source\repos\circuitos\circuitos\circuitos.cpp(8,31): warning C4101: 'V5': unreferenced local variable
+C:\Users\Jose_Enrique\source\repos\circuitos\circuitos\circuitos.cpp(7,27): warning C4101: 'R5': unreferenced local variable
+C:\Users\Jose_Enrique\source\repos\circuitos\circuitos\circuitos.cpp(9,23): warning C4101: 'I3': unreferenced local variable
+C:\Users\Jose_Enrique\source\repos\circuitos\circuitos\circuitos.cpp(7,23): warning C4101: 'R4': unreferenced local variable
+C:\Users\Jose_Enrique\source\repos\circuitos\circuitos\circuitos.cpp(8,23): warning C4101: 'V3': unreferenced local variable
+  circuitos.vcxproj -> C:\Users\Jose_Enrique\source\repos\circuitos\x64\Debug\circuitos.exe

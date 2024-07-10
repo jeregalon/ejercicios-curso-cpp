@@ -1,0 +1,4 @@
+﻿  clase_tiempo.cpp
+C:\Users\Jose_Enrique\source\repos\Cpp\17- POO\clase_tiempo\clase_tiempo\clase_tiempo.cpp(44,12): warning C4305: 'argument': truncation from '__int64' to 'long'
+C:\Users\Jose_Enrique\source\repos\Cpp\17- POO\clase_tiempo\clase_tiempo\clase_tiempo.cpp(44,12): warning C4309: 'argument': truncation of constant value
+  clase_tiempo.vcxproj -> C:\Users\Jose_Enrique\source\repos\Cpp\17- POO\clase_tiempo\x64\Debug\clase_tiempo.exe

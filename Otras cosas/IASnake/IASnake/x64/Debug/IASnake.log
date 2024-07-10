@@ -1,0 +1,14 @@
+﻿  IASnake.cpp
+C:\Users\Jose_Enrique\source\repos\IASnake\IASnake\IASnake.cpp(25,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jose_Enrique\source\repos\IASnake\IASnake\IASnake.cpp(47,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Jose_Enrique\source\repos\IASnake\IASnake\IASnake.cpp(47,38): warning C4244:         with
+C:\Users\Jose_Enrique\source\repos\IASnake\IASnake\IASnake.cpp(47,38): warning C4244:         [
+C:\Users\Jose_Enrique\source\repos\IASnake\IASnake\IASnake.cpp(47,38): warning C4244:             T=float
+C:\Users\Jose_Enrique\source\repos\IASnake\IASnake\IASnake.cpp(47,38): warning C4244:         ]
+C:\Users\Jose_Enrique\source\repos\IASnake\IASnake\IASnake.cpp(47,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Jose_Enrique\source\repos\IASnake\IASnake\IASnake.cpp(47,28): warning C4244:         with
+C:\Users\Jose_Enrique\source\repos\IASnake\IASnake\IASnake.cpp(47,28): warning C4244:         [
+C:\Users\Jose_Enrique\source\repos\IASnake\IASnake\IASnake.cpp(47,28): warning C4244:             T=float
+C:\Users\Jose_Enrique\source\repos\IASnake\IASnake\IASnake.cpp(47,28): warning C4244:         ]
+C:\Users\Jose_Enrique\source\repos\IASnake\IASnake\IASnake.cpp(116,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  IASnake.vcxproj -> C:\Users\Jose_Enrique\source\repos\IASnake\x64\Debug\IASnake.exe

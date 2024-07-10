@@ -1,0 +1,5 @@
+﻿  clase_rectangulo.cpp
+C:\Users\Jose_Enrique\source\repos\Cpp\17- POO\clase_rectangulo\clase_rectangulo\clase_rectangulo.cpp(30,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jose_Enrique\source\repos\Cpp\17- POO\clase_rectangulo\clase_rectangulo\clase_rectangulo.cpp(31,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jose_Enrique\source\repos\Cpp\17- POO\clase_rectangulo\clase_rectangulo\clase_rectangulo.cpp(31,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  clase_rectangulo.vcxproj -> C:\Users\Jose_Enrique\source\repos\Cpp\17- POO\clase_rectangulo\x64\Debug\clase_rectangulo.exe

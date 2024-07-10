@@ -1,0 +1,5 @@
+﻿  determinante_matriz.cpp
+C:\Users\Jose_Enrique\source\repos\determinante_matriz\determinante_matriz\determinante_matriz.cpp(13,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jose_Enrique\source\repos\determinante_matriz\determinante_matriz\determinante_matriz.cpp(25,25): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\Jose_Enrique\source\repos\determinante_matriz\determinante_matriz\determinante_matriz.cpp(28,31): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+  determinante_matriz.vcxproj -> C:\Users\Jose_Enrique\source\repos\determinante_matriz\x64\Debug\determinante_matriz.exe
